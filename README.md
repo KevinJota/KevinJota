@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0025b8&height=120&section=header"/>
 
-## Olá! 👋
+## Kevin Joel 
 
-Sou Kevin Joel, estudante de **Inteligência e Análise de Dados no SENAI Suíço-Brasileiro**.
+**Estudante de Inteligência e Análise de Dados no SENAI Suíço-Brasileiro**, com formação técnica em Desenvolvimento de Sistemas.
 
-Sou formado em **Desenvolvimento de Sistemas** e atualmente estou aprofundando meus conhecimentos em **Análise de Dados, Python e mySQL**.
+Atualmente, venho direcionando meus estudos para **Análise de Dados, Python, SQL e Backend**, buscando transformar dados em informações úteis e desenvolver soluções que façam sentido na prática.
 
-Meu objetivo é iniciar minha carreira na área de **Tecnologia**, buscando uma oportunidade de estágio onde eu possa aplicar meus conhecimentos e continuar evoluindo profissionalmente.
+**Objetivo:** iniciar minha carreira em Tecnologia através de uma oportunidade de estágio, enquanto continuo desenvolvendo minhas habilidades e construindo projetos.
+
+**Idiomas:** 🇧🇷 Português · 🇪🇸 Espanhol (nativo)
 
  
 ### Main skills:
