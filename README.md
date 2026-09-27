@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0025b8&height=120&section=header"/>
 
-## Kevin Joel 
+## Kevin Joel 🇧🇷 🇧🇴
 
 **Estudante de Inteligência e Análise de Dados no SENAI Suíço-Brasileiro**, com formação técnica em Desenvolvimento de Sistemas.
 
